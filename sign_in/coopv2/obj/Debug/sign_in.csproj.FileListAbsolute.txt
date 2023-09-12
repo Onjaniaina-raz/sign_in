@@ -1,0 +1,9 @@
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\obj\Debug\sign_in.csprojResolveAssemblyReference.cache
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\obj\Debug\coopv2.Properties.Resources.resources
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\obj\Debug\coopv2.Sign_in.resources
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\obj\Debug\sign_in.csproj.GenerateResource.Cache
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\obj\Debug\coopv2.exe
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\bin\Debug\coopv2.exe.config
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\bin\Debug\coopv2.exe
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\bin\Debug\coopv2.pdb
+C:\Users\Raz\Documents\Visual Studio 2012\Projects\coopv2\coopv2\obj\Debug\coopv2.pdb
